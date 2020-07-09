@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Just another fellow hacker learning to code
